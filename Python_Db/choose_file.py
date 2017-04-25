@@ -47,10 +47,6 @@ def choose_option():
             elif inputvar == "read":
                 entrylist = myobj.read_all()
                 print(entrylist)
-            
-            elif inputvar == "fileupload":
-                content = myobj.read_file("H:\Python_Db")
-                print(content)
                 
             elif inputvar == "export":
                 data = myobj.file_export()      

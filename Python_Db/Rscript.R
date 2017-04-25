@@ -1,3 +1,5 @@
+
+
 data <- read.table("data.txt",sep=",",head=TRUE)
 name <- levels(data$Name)
 hits <- c(1:length(name))
