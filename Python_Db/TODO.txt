@@ -1,0 +1,9 @@
+
+
+
+
+Schau dir TODO Bei export.csv an
+
+
+R script das irgendwas macht im Python aufrufen und dann was schönes anzeigen lassen!
+

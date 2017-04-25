@@ -1,0 +1,3 @@
+Name; Titel; Description; Status; Date
+Urs; Assessment Auswertung; Berufsschulen-Termin Urs Statistik; 1; 2016-11-01
+Urs; En-Assessments; Automatisierung,Excel Makro, Prozessoptimierung; 0; 2016-12-01
