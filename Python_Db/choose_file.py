@@ -5,7 +5,7 @@ Created on Tue Apr 11 14:30:35 2017
 @author: tamelill
 """
 
-import class_DB
+import dbclassPY
 import os
 import datetime
 import matplotlib.pyplot as plt
@@ -18,7 +18,7 @@ import cmd_commands
 
 
 def choose_option():
-    myobj = class_DB.DB_communication()
+    myobj = dbclassPY.DB_communication()
     print("Hey Hoh, what do you want to do?:\n")
     
     if myobj.runningval == 1:
