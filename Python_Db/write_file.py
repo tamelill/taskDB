@@ -7,13 +7,14 @@ Created on Thu Apr 20 10:14:18 2017
 
 def write_file(query,name = "data.txt"):
     name = name + ".txt"
+    path = "genData\\" + name
     file = open(name,"w+")
     file.write("Name" + "; " + "Titel" + "; " + "Description" + "; " + "Status"+ "; " + "Date" + "\n")
     for element in query:
         file.write(element[1] + "; " +  str(element[2]) + "; " +  str(element[6]) + "; " + str(element[5]) + "; " +  str(element[3])+ "\n")
         
     file.close()
-
+    print(path)
 
 def write_cmd(query):
     for element in query:
