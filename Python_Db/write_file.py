@@ -5,7 +5,7 @@ Created on Thu Apr 20 10:14:18 2017
 @author: tamelill
 """
 
-def write_file(query,name = "data.txt"):
+def write_file(query,name = "data"):
     name = name + ".txt"
     path = "genData\\" + name
     file = open(path,"w+")

@@ -1,14 +1,3 @@
 
+-> gitignore
 
-
-
-Schau dir TODO Bei export.csv an
-
-
-R script das irgendwas macht im Python aufrufen und dann was schönes anzeigen lassen!
-
-
-
-1) R dependences paths...
-2) committing
-3) data.txt save as data(implicit suffix)
