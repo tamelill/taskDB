@@ -1,10 +1,12 @@
-setwd("H:/Python_Db")
+setwd("H:\\Naturwissenschaften\\Python\\DB_Project\\Python_Db")
 
-data <- read.table("urs.txt",sep=";",head=TRUE)
-data
+val = getwd()
+
+write(val, file = "genData\\testdata.txt")
+
+data = read.table("genData\\testdata.txt")
 
 
-str(data)
-
-
-
+jpeg('rtestplot.jpeg')
+plt <- plot(data)
+invisible(dev.off())

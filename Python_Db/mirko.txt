@@ -1,4 +1,0 @@
-Name; Titel; Description; Status; Date
-Mirko; Serien PM erstellen; Serien translation De En, erstellen und lösen; 0; 2017-01-01
-Mirko; R evaluation; Rshiny, Rformat etc...; 1; 2016-12-01
-Mirko; Skript; Skripte versuchen zusammenzuführen; 0; 2017-01-01

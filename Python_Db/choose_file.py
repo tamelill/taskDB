@@ -53,9 +53,8 @@ def choose_option():
                 try:
                     write_file.write_file(data) 
                     rsubcall.rsub_call()
-    
-                except: 
-                    print("writing failure\n")
+                except:
+                    print("fail... export")
                     
             elif inputvar == "barplot":
                 

@@ -9,5 +9,5 @@ from PIL import Image
 
 
 def show_barplot():
-    img = Image.open('rplot.jpeg')
+    img = Image.open('Plots\\rplot.jpeg')
     img.show()

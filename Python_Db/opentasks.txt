@@ -1,7 +1,0 @@
-Name; Titel; Description; Status; Date
-Klaus; Klaus Serien; Lösungen machen + ergänzen; 0; 2017-04-01
-Mirko; Serien PM erstellen; Serien translation De En, erstellen und lösen; 0; 2017-01-01
-Urs; En-Assessments; Automatisierung,Excel Makro, Prozessoptimierung; 0; 2016-12-01
-Tom; Testate to Ilias MAPH2; Alte Prüfungsaufgaben nach ILIAS; 0; 2017-04-01
-Philipp; MAPH1Bau Testate Ilias; move to Ilias; 0; 2017-04-01
-Mirko; Skript; Skripte versuchen zusammenzuführen; 0; 2017-01-01
