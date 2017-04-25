@@ -9,4 +9,5 @@ import choose_file
 
 
 choose_file.choose_option()
-e
+
+#start the program
