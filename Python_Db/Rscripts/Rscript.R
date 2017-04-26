@@ -1,4 +1,4 @@
-setwd("H:\\Naturwissenschaften\\Python\\DB_Project\\Python_Db")
+#setwd("H:\\Naturwissenschaften\\Python\\DB_Project\\Python_Db")
 
 
 data <- read.table("genData\\data.txt",sep=";",head=TRUE)

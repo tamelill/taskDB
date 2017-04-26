@@ -1,4 +1,4 @@
-setwd("H:\\Naturwissenschaften\\Python\\DB_Project\\Python_Db")
+#setwd("H:\\Naturwissenschaften\\Python\\DB_Project\\Python_Db")
 
 val = getwd()
 
