@@ -1,2 +1,2 @@
 # taskDB
-collect tasks 
+collect tasks in MySQL DB using Python and R
