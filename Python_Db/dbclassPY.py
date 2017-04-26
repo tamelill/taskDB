@@ -10,8 +10,6 @@ import pymysql.cursors
 
 
 
-
-
 class DB_communication:
     '''comunicate with DB'''
     def __init__(self):
